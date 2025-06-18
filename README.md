@@ -38,8 +38,7 @@ By the end of this notebook, you’ll:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SwadhaThakkar/Numpy-Tutorial.git
-cd Numpy-Tutorial
+https://github.com/SwadhaThakkar/NumPy-Deep-Dive-Mastering-Numerical-Computing-in-Python.git
 ```
 
 ### 2. Install Dependencies
