@@ -1,4 +1,4 @@
-# 🔢 NumPy Deep Dive: Mastering Numerical Computing in Python
+# 🔢 NumPy Basics: Numerical Computing with Python
 
 This project demonstrates the core features and applications of **NumPy**, the fundamental package for scientific computing with Python. It includes hands-on examples, performance comparisons, and essential data manipulation techniques using `ndarray`.
 
